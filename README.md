@@ -15,7 +15,7 @@ https://github.com/eesast/Training/tree/master/git
 ### 1. git(*为选做项，无需提交)
 
 主要指令：
-`clone`,`add`,`commit`,`log`,`status`,`merge`,`reset`,`push`,`pull`,`remote`,`rebase`等
+`clone`,`add`,`commit`,`log`,`status`,`merge`,`reset`,`revert`,`push`,`pull`,`remote`,`rebase`等
 
 内容：
 请完成以下操作，具体指令可以自选。路径和分支名建议采用英文。
